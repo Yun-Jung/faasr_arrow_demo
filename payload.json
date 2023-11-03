@@ -55,6 +55,6 @@
     "InvocationID": "",
     "FaaSrLog": "FaaSrLog",
     "LoggingDataStore": "My_Minio_Bucket",
-    "DefaultDataStore": "My_Minio_Bucket"
+    "DefaultDataStore": "arrow-demo"
 }
 
