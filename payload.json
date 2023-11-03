@@ -48,8 +48,8 @@
         "sum": "faasr/github-actions-tidyverse"
     },
     "FunctionGitRepo": {
-        "create_sample_data": "FaaSr/FaaSr-tutorial",
-        "compute_sum": "FaaSr/FaaSr-tutorial"
+        "create_sample_data": "Yun-Jung/FaaSr-tutorial",
+        "compute_sum": "Yun-Jung/FaaSr-tutorial"
     },
     "FunctionInvoke": "start",
     "InvocationID": "",
