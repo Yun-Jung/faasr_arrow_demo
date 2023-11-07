@@ -9,13 +9,13 @@
         }
     },
     "DataStores": {
-        "My_Minio_Bucket": {
+        "arrow-demo": {
             "Endpoint": "https://play.min.io",
             "Bucket": "arrow-demo",
             "Region": "",
             "Writable": "TRUE",
-            "AccessKey": "My_Minio_Bucket_ACCESS_KEY",
-            "SecretKey": "My_Minio_Bucket_SECRET_KEY"
+            "AccessKey": "arrow-demo_ACCESS_KEY",
+            "SecretKey": "arrow-demo_SECRET_KEY"
         }
     },
     "FunctionList": {
