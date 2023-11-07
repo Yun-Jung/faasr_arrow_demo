@@ -20,7 +20,7 @@
     },
     "FunctionList": {
         "start": {
-            "FunctionName": "create_sample_data_arrow",
+            "FunctionName": "create_sample_data",
             "FaaSServer": "My_GitHub_Account",
             "Arguments": {
                 "folder": "tutorial",
@@ -30,7 +30,7 @@
             "InvokeNext": "sum"
         },
         "sum": {
-            "FunctionName": "compute_sum_arrow",
+            "FunctionName": "compute_sum",
             "FaaSServer": "My_GitHub_Account",
             "Arguments": {
                 "folder": "tutorial",
