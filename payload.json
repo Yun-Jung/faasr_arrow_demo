@@ -12,7 +12,7 @@
         "arrow-demo": {
             "Endpoint": "https://play.min.io",
             "Bucket": "arrow-demo",
-            "Region": "uf",
+            "Region": "",
             "Writable": "TRUE",
             "AccessKey": "arrow-demo_ACCESS_KEY",
             "SecretKey": "arrow-demo_SECRET_KEY"
@@ -54,7 +54,7 @@
     "FunctionInvoke": "start",
     "InvocationID": "",
     "FaaSrLog": "FaaSrLog",
-    "LoggingDataStore": "My_Minio_Bucket",
+    "LoggingDataStore": "arrow-demo",
     "DefaultDataStore": "arrow-demo"
 }
 
