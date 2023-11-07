@@ -20,7 +20,7 @@
     },
     "FunctionList": {
         "start": {
-            "FunctionName": "create_sample_data",
+            "FunctionName": "create_sample_data_arrow",
             "FaaSServer": "My_GitHub_Account",
             "Arguments": {
                 "folder": "tutorial",
